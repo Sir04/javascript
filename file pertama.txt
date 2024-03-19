@@ -1,0 +1,11 @@
+kumpulan MSIB^
+- HTML
+- Github
+- Ui/Ux
+- javascript
+- php
+- laravel
+- MYSQL Database
+- rest api
+- comsum API
+//git add untuk menambahkan file
